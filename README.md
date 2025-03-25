@@ -2,7 +2,8 @@
 - 👀 I’m interested in CG, CV, VR, Cloud Computing, Alogorithm
 - 🌱 I’m currently learning CG && AI
 - 💞️ I’m looking to collaborate on any new stuff
-- 📫 How to reach me Wechat: harrybadman Email: zs2264@nyu.edu
+- 📫 How to reach me Wechat: harrybadman Email: zs2264@nyu.edu / Zhihao.Shu@uga.edu
+- Google Scholar: https://scholar.google.com/citations?user=dkxKQq0AAAAJ&hl=en&oi=ao
 
 <!---
 harryshu1997/harryshu1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
